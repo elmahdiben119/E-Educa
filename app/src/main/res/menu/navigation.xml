@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/user"
+        android:title="حسابي" />
+
+    <item
+        android:id="@+id/questions"
+        android:icon="@drawable/questions"
+        android:title="أسئلة" />
+
+    <item
+        android:id="@+id/bell"
+        android:icon="@drawable/doorbell"
+        android:title="جدول المراجعة" />
+    <item
+        android:id="@+id/cours"
+        android:icon="@drawable/cours"
+        android:title="المواد" />
+
+</menu>

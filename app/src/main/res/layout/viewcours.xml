@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp">
+
+    <ImageView
+        android:id="@+id/logocours"
+        android:layout_width="40dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/logocours"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="40dp"
+        android:text="15 / 20"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ProgressBar
+        android:id="@+id/progressV"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="111dp"
+        android:progressDrawable="@drawable/educaborder"
+        android:layout_height="14dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="40dp"
+        android:progress="50"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtNote" />
+
+    <TextView
+        android:id="@+id/txtCentre"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="12dp"
+        android:text="الرياضيات "
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toStartOf="@+id/txtNote"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ProgressBar
+        android:id="@+id/progressH"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="12dp"
+        android:layout_marginStart="0dp"
+        android:progressTint="@color/colorBlue"
+        android:progressBackgroundTint="@color/colorMoutard"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:max="100"
+        android:progress="50"
+        android:rotation="270"
+        app:layout_constraintBottom_toBottomOf="@+id/progressV"
+        app:layout_constraintStart_toEndOf="@+id/progressV"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.66" />
+</android.support.constraint.ConstraintLayout>
