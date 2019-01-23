@@ -1,0 +1,4 @@
+#Wed Jan 23 10:49:36 WAT 2019
+base.0=C\:\\Users\\elmah\\Desktop\\E-Educa\\EEDUKA\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\183a2f0bfd7fb1b69d7f1ff5b35a76c7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d12f5c8edf1c2c15cf8e553a5a1d1548\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bf40d718b8dcb545030424ffc6c21d93\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\78075f227da1ff97651789b9dc259c2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\679aff53005344a79b0fcd695ec0c92c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4a5871acd627311c0262bb98ac99a2ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\26f3c475e60aa59d2ed5bc937f11a68f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8cb7d08e67180dc99da29ce86b02982f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7e964d8a388517b19f1ddb68ccfe1a01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a92ee695f3af0eaf6568ec215c926dc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\fe627cd309ccb9f70cd919e49b7ef138\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e94f8958161e5b073ea0f3d70cf6db12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\460dc10fc34deecf3364753e7457800a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\51a45d8080e905479017928047381435\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\acca8db158f6f2dadb1336bed5441fd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\76abfbb7d0b3da2325499f18c6ad90a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61816d6be58eea0016d2bc8273861fa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a9d2a75fa702522c24aa7d9a57a083c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a631f86abd7e02b88284c3ec56db4116\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ea20989491bfbd40792ef081c4ddf1bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f60ef375ff3539ec9f7d5f0312a7469e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\179888d4a7845f93f007b71e9736991c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b6c14fde302ad5edec608d949a794771\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3ae828f26d700bc112a30a58c0431f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\66f7bf07ace8553cd3fce1096daaeab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\203243d194a0e69b8b608f030ac69c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\455cbd11e79adc37a7c540afa0c22597\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\90efb146980e19aa4455452babd00302\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e015f6b3c17454f9ca7cdbea03fea464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f30b85545da95f9004e2a7f3a7b31061\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1f67e1163b5b3ea72f8ac698d6f0931d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d31b862e8eb28ab58097511e342b0cc6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a1b3fa75b892606858f255d641317316\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\183a2f0bfd7fb1b69d7f1ff5b35a76c7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\183a2f0bfd7fb1b69d7f1ff5b35a76c7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bf40d718b8dcb545030424ffc6c21d93\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bf40d718b8dcb545030424ffc6c21d93\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f60ef375ff3539ec9f7d5f0312a7469e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f60ef375ff3539ec9f7d5f0312a7469e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\179888d4a7845f93f007b71e9736991c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\179888d4a7845f93f007b71e9736991c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f60ef375ff3539ec9f7d5f0312a7469e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:15:9-65
+activity#com.educa.ebenbrahimkbenazzou.educa.Login
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:16:9-18:20
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:16:19-40
+activity#com.educa.ebenbrahimkbenazzou.educa.Home
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:19:19-39
+activity#com.educa.ebenbrahimkbenazzou.educa.Load
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:22:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\183a2f0bfd7fb1b69d7f1ff5b35a76c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\183a2f0bfd7fb1b69d7f1ff5b35a76c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d12f5c8edf1c2c15cf8e553a5a1d1548\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d12f5c8edf1c2c15cf8e553a5a1d1548\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bf40d718b8dcb545030424ffc6c21d93\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bf40d718b8dcb545030424ffc6c21d93\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\78075f227da1ff97651789b9dc259c2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\78075f227da1ff97651789b9dc259c2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\679aff53005344a79b0fcd695ec0c92c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\679aff53005344a79b0fcd695ec0c92c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4a5871acd627311c0262bb98ac99a2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4a5871acd627311c0262bb98ac99a2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\26f3c475e60aa59d2ed5bc937f11a68f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\26f3c475e60aa59d2ed5bc937f11a68f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8cb7d08e67180dc99da29ce86b02982f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8cb7d08e67180dc99da29ce86b02982f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7e964d8a388517b19f1ddb68ccfe1a01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7e964d8a388517b19f1ddb68ccfe1a01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a92ee695f3af0eaf6568ec215c926dc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a92ee695f3af0eaf6568ec215c926dc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\fe627cd309ccb9f70cd919e49b7ef138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\fe627cd309ccb9f70cd919e49b7ef138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e94f8958161e5b073ea0f3d70cf6db12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e94f8958161e5b073ea0f3d70cf6db12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\460dc10fc34deecf3364753e7457800a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\460dc10fc34deecf3364753e7457800a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\51a45d8080e905479017928047381435\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\51a45d8080e905479017928047381435\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\acca8db158f6f2dadb1336bed5441fd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\acca8db158f6f2dadb1336bed5441fd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\76abfbb7d0b3da2325499f18c6ad90a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\76abfbb7d0b3da2325499f18c6ad90a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61816d6be58eea0016d2bc8273861fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61816d6be58eea0016d2bc8273861fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a9d2a75fa702522c24aa7d9a57a083c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a9d2a75fa702522c24aa7d9a57a083c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a631f86abd7e02b88284c3ec56db4116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a631f86abd7e02b88284c3ec56db4116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ea20989491bfbd40792ef081c4ddf1bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ea20989491bfbd40792ef081c4ddf1bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f60ef375ff3539ec9f7d5f0312a7469e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f60ef375ff3539ec9f7d5f0312a7469e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\179888d4a7845f93f007b71e9736991c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\179888d4a7845f93f007b71e9736991c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b6c14fde302ad5edec608d949a794771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b6c14fde302ad5edec608d949a794771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3ae828f26d700bc112a30a58c0431f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3ae828f26d700bc112a30a58c0431f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\66f7bf07ace8553cd3fce1096daaeab7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\66f7bf07ace8553cd3fce1096daaeab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\203243d194a0e69b8b608f030ac69c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\203243d194a0e69b8b608f030ac69c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\455cbd11e79adc37a7c540afa0c22597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\455cbd11e79adc37a7c540afa0c22597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\90efb146980e19aa4455452babd00302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\90efb146980e19aa4455452babd00302\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e015f6b3c17454f9ca7cdbea03fea464\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e015f6b3c17454f9ca7cdbea03fea464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f30b85545da95f9004e2a7f3a7b31061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f30b85545da95f9004e2a7f3a7b31061\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1f67e1163b5b3ea72f8ac698d6f0931d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1f67e1163b5b3ea72f8ac698d6f0931d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d31b862e8eb28ab58097511e342b0cc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d31b862e8eb28ab58097511e342b0cc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a1b3fa75b892606858f255d641317316\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\elmah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a1b3fa75b892606858f255d641317316\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elmah\Desktop\E-Educa\EEDUKA\app\src\main\AndroidManifest.xml
